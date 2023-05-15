@@ -17,6 +17,5 @@
     <br> malakhovtsevandrii@gmail.com
     <br> Discord: Malandrii#8389
     <br> Skype: live:.cid.7100949ab8d6315d
-    <br> Telegram: @malandrii
   </samp>
 </p>
