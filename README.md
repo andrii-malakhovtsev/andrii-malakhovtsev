@@ -5,6 +5,7 @@
   2020-2022 -> I. I. Mechnikov Odesa National University (Ukraine) - "Information systems and technology".
         now ->       Sinclair Community College          (USA)     - "Software Development".
 </pre>
+- I like coding for solving real life problems as well as for learning new stuff 🙂
 - I'm always open to the new opportunities in programming jobs! ⚒
 
 <br>
