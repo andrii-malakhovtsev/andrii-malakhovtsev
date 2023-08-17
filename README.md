@@ -1,8 +1,11 @@
 ### Hi there, I'm Andrii Malakhovtsev ✌
 
-- I'm a student from Ukraine who had to move to US (Dayton, OH).
-- I was studying at I. I. Mechnikov Odesa National University 🎓 in the "Information systems and technology" specialty.
-- Now I'm open to new opportunities in programming jobs! ⚒
+- I'm a student from Ukraine who has moved to the US.
+<pre>
+  2020-2022 -> I. I. Mechnikov Odesa National University (Ukraine) - "Information systems and technology".
+        now ->       Sinclair Community College          (USA)     - "Software Development".
+</pre>
+- I'm always open to the new opportunities in programming jobs! ⚒
 
 <br>
 <p align="center">
