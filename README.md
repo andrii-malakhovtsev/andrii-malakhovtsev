@@ -17,9 +17,8 @@
 
 <p align="center">
   <samp>
-    📫 How to reach me:
+    📫 Reach me here:
     <br> malakhovtsevandrii@gmail.com
     <br> Discord: malandrii
-    <br> Skype: live:.cid.7100949ab8d6315d
   </samp>
 </p>
