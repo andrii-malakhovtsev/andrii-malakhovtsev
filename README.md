@@ -19,6 +19,5 @@
   <samp>
     📫 Reach me here:
     <br> malakhovtsevandrii@gmail.com
-    <br> Discord: malandrii
   </samp>
 </p>
