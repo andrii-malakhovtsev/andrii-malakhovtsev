@@ -1,4 +1,4 @@
-### Hi there, I'm Andrii ✌
+### Hi there, I'm Andrii 👋
 
 - I'm a student from Ukraine who has moved to the U.S.
 <pre>
