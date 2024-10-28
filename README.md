@@ -10,16 +10,11 @@
 
 <br>
 <p align="center">
-  <img src="https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white" alt="C#">
-  <img src="https://img.shields.io/badge/-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white" alt="HTML">
-  <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white" alt="CSS">
-<br>
-<img src="https://img.shields.io/badge/-Windows%20Forms-5C2D91?logo=.net&logoColor=white" alt="Windows Forms">
-
-  <img src="https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=visual-studio&logoColor=white" alt="Visual Studio">
-  <img src="https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white" alt="VSCode">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,cpp,python,html,css"/>
+    <br>
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,rider"/>
+  </a>
 </p>
 
 <p align="center">
