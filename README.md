@@ -11,9 +11,9 @@
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,cs,cpp,python,html,css"/>
+    <img src="https://skillicons.dev/icons?i=cs,cpp,java,python,html,css"/>
     <br>
-    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,rider"/>
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,rider,idea"/>
   </a>
 </p>
 
