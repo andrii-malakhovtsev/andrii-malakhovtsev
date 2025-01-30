@@ -20,6 +20,6 @@
 <p align="center">
   <samp>
     📫 Reach me here:
-    <br> malakhovtsevandrii@gmail.com
+    <br> andrii.malakhovtsev@gmail.com
   </samp>
 </p>
