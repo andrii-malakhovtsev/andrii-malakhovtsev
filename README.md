@@ -19,7 +19,6 @@
 
 <p align="center">
   <samp>
-    📫 Reach me here:
-    <br> andrii.malakhovtsev@gmail.com
+    <br> 📫 - andrii.malakhovtsev@gmail.com
   </samp>
 </p>
