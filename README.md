@@ -3,7 +3,7 @@
 - I'm a student from Ukraine who has moved to the U.S. 👨‍🎓
 - I like solving real-life annoyances and problems with coding ✅
 - Open to new opportunities in software development jobs! 💻
-- Visit my <a href="https://malandrii.github.io/portfolio-website/sinclair.html">Portfolio</a> 💼
+- Visit my <a href="https://malandrii.github.io/portfolio-website/index">Portfolio</a> 💼
 <br>
 <p align="left">
   <a href="https://skillicons.dev">
