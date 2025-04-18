@@ -1,24 +1,22 @@
-### Hi there, I'm Andrii 👋
+<h2>Hi there, it's Andrii 👋</h2> 
 
-- I'm a student from Ukraine who has moved to the U.S.
-<pre>
-  2020 - 2022 ->  Odesa National University  <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg" alt="Ukraine" width="25" height="16"> - "Information systems and technology"
-  2023 - now  ->  Sinclair Community College <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/Flag_of_the_United_States.png" alt="USA" width="25" height="16"> - "Computer Information Systems / Software Development"
-</pre>
-- I like coding to solve real-life problems and learn new things 🎓
-- Open to new opportunities in software development jobs! ⚒
+- I'm a student from Ukraine who has moved to the U.S. 👨‍🎓
+- I like solving real-life annoyances and problems with coding ✅
+- Open to new opportunities in software development jobs! 💻
 
 <br>
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,cpp,java,python,html,css"/>
-    <br>
+    <h2>Skills:</h2>
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,cpp,java,python,html,css,git"/>
+    <h3>IDE's:</h3>
     <img src="https://skillicons.dev/icons?i=visualstudio,vscode,rider,idea"/>
+    
   </a>
 </p>
 
 <p align="center">
   <samp>
-    <br> 📫 - andrii.malakhovtsev@gmail.com
+    <br><a href="mailto:andrii.malakhovtsev@gmail.com"><code>andrii.malakhovtsev@gmail.com</code></a>
   </samp>
 </p>
