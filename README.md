@@ -16,7 +16,10 @@
 </p>
 
 <p align="center">
-  <samp>
-    <br><a href="mailto:andrii.malakhovtsev@gmail.com"><code>andrii.malakhovtsev@gmail.com</code></a>
-  </samp>
+  <strong>
+    <a href="mailto:andrii.malakhovtsev@gmail.com">
+      <code>andrii.malakhovtsev@gmail.com</code>
+    </a>
+  </strong>
 </p>
+
