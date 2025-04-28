@@ -7,8 +7,11 @@
 <br>
 <p align="left">
   <a href="https://skillicons.dev">
-    <h2>Skills:</h2>
-    <img src="https://skillicons.dev/icons?i=dotnet,cs,cpp,java,python,html,css,git"/>
+    <h2>Skills</h2>
+    <h3>Languages:</h3>
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,cpp,java,python,html,css"/>
+    <h3>Broad:</h3>
+    <img src="https://skillicons.dev/icons?i=git,linux,windows,apple"/>
     <h3>IDE's:</h3>
     <img src="https://skillicons.dev/icons?i=visualstudio,vscode,rider,idea"/>
   </a>
