@@ -3,11 +3,22 @@
 - I'm a student from Ukraine who has moved to the U.S. 👨‍🎓
 - I like solving real-life annoyances and problems with coding ✅
 - Open to new opportunities in software development jobs! 💻
-- Visit my <a href="https://malandrii.github.io/portfolio-website/">Portfolio</a> 💼
-<br>
+<hr>
+<p align="center">
+  <strong>
+    <a href="https://malandrii.github.io/portfolio-website/">
+      <code>Portfolio 💼</code></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="mailto:andrii.malakhovtsev@gmail.com">
+      <code>andrii.malakhovtsev@gmail.com</code>
+    </a>
+  </strong>
+</p>
+
+<hr>
+
 <p align="left">
   <a href="https://skillicons.dev">
-    <h2>Skills</h2>
     <h3>Languages:</h3>
     <img src="https://skillicons.dev/icons?i=dotnet,cs,cpp,java,python,html,css"/>
     <h3>Broad:</h3>
@@ -17,11 +28,5 @@
   </a>
 </p>
 
-<p align="center">
-  <strong>
-    <a href="mailto:andrii.malakhovtsev@gmail.com">
-      <code>andrii.malakhovtsev@gmail.com</code>
-    </a>
-  </strong>
-</p>
+
 
