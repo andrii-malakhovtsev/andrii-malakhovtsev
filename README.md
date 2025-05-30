@@ -6,7 +6,7 @@
 <hr>
 <p align="center">
   <strong>
-    <a href="https://malandrii.github.io/portfolio-website/">
+    <a href="https://andrii-malakhovtsev.com/">
       <code>Portfolio 💼</code></a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="mailto:andrii.malakhovtsev@gmail.com">
