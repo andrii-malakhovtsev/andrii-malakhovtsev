@@ -19,13 +19,25 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <h3>Languages:</h3>
-    <img src="https://skillicons.dev/icons?i=dotnet,cs,cpp,java,python,html,css"/>
+    <h3>Main Skills:</h3>
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,java"/>
+    <h3>Secondary/Learning Skills:</h3>
+    <img src="https://skillicons.dev/icons?i=c,cpp,python"/>
+    <img src="https://skillicons.dev/icons?i=react,vite,html,css"/>
     <h3>Broad:</h3>
     <img src="https://skillicons.dev/icons?i=git,linux,windows,apple"/>
-    <h3>IDE's:</h3>
-    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,rider,idea"/>
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,rider,idea"/>
   </a>
+
+<hr>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/andrii-malakhovtsev/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="32" style="border:none; box-shadow:none;" /></a>
+  <a href="mailto:andrii.malakhovtsev@gmail.com" target="_blank" rel="noopener noreferrer" ><img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="32" style="border:none; box-shadow:none;" /></a>
+  <a href="https://discordapp.com/users/andrii.mal" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=discord" alt="Discord" width="32" style="border:none; box-shadow:none;" />  </a>
+</p>
+
+</p>
 </p>
 
 
