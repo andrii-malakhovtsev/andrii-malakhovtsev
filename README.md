@@ -22,11 +22,9 @@
     <h3>Main Skills:</h3>
     <img src="https://skillicons.dev/icons?i=dotnet,cs,java"/>
     <h3>Secondary/Learning Skills:</h3>
-    <img src="https://skillicons.dev/icons?i=c,cpp,python"/>
-    <img src="https://skillicons.dev/icons?i=react,vite,html,css"/>
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,react,vite,html,css"/>
     <h3>Broad:</h3>
-    <img src="https://skillicons.dev/icons?i=git,linux,windows,apple"/>
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,rider,idea"/>
+    <img src="https://skillicons.dev/icons?i=git,linux,windows,apple,vscode,visualstudio,rider,idea"/>
   </a>
 
 <hr>
