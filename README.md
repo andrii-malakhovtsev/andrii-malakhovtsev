@@ -1,8 +1,8 @@
 <h2>Hi there, it's Andrii 👋</h2>
 
-- I'm a student from Ukraine who has moved to the U.S. 👨‍🎓
-- I like solving real-life annoyances and problems with coding ✅
-- Open to new opportunities in software development jobs! 💻
+👨‍🎓 I'm a student from Ukraine 🇺🇦 who has moved to the U.S. 🇺🇸 <br>
+✅ I like solving real-life annoyances and problems with coding <br>
+💻 Open to new opportunities in software development jobs! <br>
 <hr>
 <p align="center">
   <strong>
