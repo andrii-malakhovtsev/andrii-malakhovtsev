@@ -20,11 +20,11 @@
 <p align="left">
   <a href="https://skillicons.dev">
     <h3>Main Stack:</h3>
-    <img src="https://skillicons.dev/icons?i=dotnet,cs,react,vite,html,css"/>
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,react,vite,npm,aws,html,css"/>
     <h3>Secondary/Learning Skills:</h3>
     <img src="https://skillicons.dev/icons?i=c,cpp,python,java,"/>
     <h3>Broad:</h3>
-    <img src="https://skillicons.dev/icons?i=git,linux,windows,apple,vscode,visualstudio,rider,idea"/>
+    <img src="https://skillicons.dev/icons?i=git,linux,windows,apple,vscode,visualstudio,rider,idea,notion"/>
   </a>
 
 <hr>
