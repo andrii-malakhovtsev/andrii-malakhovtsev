@@ -1,6 +1,6 @@
 <h2>Hi there, it's Andrii 👋</h2>
 
-- 👨‍🎓 &nbsp;I'm a student from Ukraine 🇺🇦 who has moved to the U.S. 🇺🇸 <br>
+- 👨‍🎓 &nbsp;I'm a student from Ukraine <img src="https://twemoji.maxcdn.com/v/latest/72x72/1f1fa-1f1e6.png" alt="Ukraine Flag" width="16" /> who has moved to the U.S. <img src="https://twemoji.maxcdn.com/v/latest/72x72/1f1fa-1f1f8.png" alt="US Flag" width="16" /> <br>
 - ✅ &nbsp;I like solving real-life annoyances and problems with coding <br>
 - 💻 &nbsp;Open to new opportunities in software development jobs! <br>
 <hr>
