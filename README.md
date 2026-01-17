@@ -26,7 +26,7 @@
     <h3>Secondary/Learning Skills:</h3>
     <img src="https://skillicons.dev/icons?i=c,cpp,python,java,ts,nodejs,express,nginx,"/>
     <h3>Broad:</h3>
-    <img src="https://skillicons.dev/icons?i=git,linux,apple,windows,vscode,visualstudio,rider,idea,notion"/>
+    <img src="https://skillicons.dev/icons?i=git,linux"/>
   </a>
 
 <hr>
