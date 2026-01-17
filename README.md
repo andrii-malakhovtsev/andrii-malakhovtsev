@@ -24,7 +24,7 @@
     <h3>Main Stack:</h3>
     <img src="https://skillicons.dev/icons?i=dotnet,cs,react,vite,npm,aws,git,linux,html,css"/>
     <h3>Secondary/Learning Skills:</h3>
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,ts,nodejs,express,nginx,"/>
+    <img src="https://skillicons.dev/icons?i=python,ts,nodejs,express,nginx,java,c,cpp"/>
   </a>
 
 <hr>
