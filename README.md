@@ -1,8 +1,6 @@
 <h2>Hi there, it's Andrii 👋</h2>
 
-- 👨‍🎓 &nbsp;I'm a student from Ukraine <img alt="ua-flag" width="16" src="https://github.com/user-attachments/assets/18a66c76-ce0d-45cf-8eed-c62fc685343e"/> who has moved to the U.S. <img width="16" alt="us flag" src="https://github.com/user-attachments/assets/56c85ba2-97bb-419d-b086-67784bd9e554" /> <br>
-- ✅ &nbsp;I like solving real-life annoyances and problems with coding <br>
-- 💻 &nbsp;Open to new opportunities in software development jobs! <br>
+- 👨‍🎓 &nbsp;Relocated Student <img alt="ua-flag" width="16" src="https://github.com/user-attachments/assets/18a66c76-ce0d-45cf-8eed-c62fc685343e"/> -> <img width="16" alt="us flag" src="https://github.com/user-attachments/assets/56c85ba2-97bb-419d-b086-67784bd9e554" /> <br>
 <hr>
 
 
