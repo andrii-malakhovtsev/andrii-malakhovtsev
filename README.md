@@ -1,6 +1,6 @@
 <h2>Hi there, it's Andrii 👋</h2>
 
-- 👨‍🎓 &nbsp;Relocated Student <img alt="ua-flag" width="16" src="https://github.com/user-attachments/assets/18a66c76-ce0d-45cf-8eed-c62fc685343e"/> -> <img width="16" alt="us flag" src="https://github.com/user-attachments/assets/56c85ba2-97bb-419d-b086-67784bd9e554" /> <br>
+👨‍🎓 &nbsp;Relocated Student <img alt="ua-flag" width="16" src="https://github.com/user-attachments/assets/18a66c76-ce0d-45cf-8eed-c62fc685343e"/> -> <img width="16" alt="us flag" src="https://github.com/user-attachments/assets/56c85ba2-97bb-419d-b086-67784bd9e554" /> <br>
 <hr>
 
 
