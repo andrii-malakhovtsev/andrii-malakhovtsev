@@ -18,7 +18,7 @@
 <p align="left">
   <a href="https://skillicons.dev">
     <h3>Main Stack:</h3>
-    <img src="https://skillicons.dev/icons?i=dotnet,cs,react,vite,npm,aws,git,linux,html,css"/>
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,react,vite,npm,aws,git,linux"/>
     <h3>Secondary/Learning Skills:</h3>
     <img src="https://skillicons.dev/icons?i=python,ts,nodejs,express,nginx,java,c,cpp"/>
   </a>
