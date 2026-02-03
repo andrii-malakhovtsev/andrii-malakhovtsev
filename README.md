@@ -25,6 +25,17 @@
 
 <hr>
 
+* **⛏️ [ZendCraft.net](https://www.zendcraft.net):** Private Minecraft Servers for whitelisted community
+* **💼 [Mdvden.com](https://mdvden.com):** Portfolio website I have built for a client 
+* **⚙️ [Mechanism Kinematics Simulator](https://github.com/andrii-malakhovtsev/mechanism-kinematics-winforms):** Drawing Mechanism Kinematics 
+* **🎮 [Game Query](https://github.com/andrii-malakhovtsev/game-query-winforms):** My personal take on how you get people to game together 
+* **📸 [OCR Text Extraction](https://github.com/andrii-malakhovtsev/image-text-to-clipboard):** Need to copy text from the image?
+* **📚 [Numerical Methods Library](https://github.com/andrii-malakhovtsev/numerical-methods-library):** Numerical Analysis Solutions for C#
+* **🚢 [Native Windows "Sea Battle"](https://github.com/andrii-malakhovtsev/sea-battle-game-winforms)** game
+* **🐧 [Linux Client-Server Communication](https://github.com/andrii-malakhovtsev/local-client-server-linux)** Communication through daemons
+
+---
+
 <p align="center">
   <a href="https://www.linkedin.com/in/andrii-malakhovtsev/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="32" style="border:none; box-shadow:none;" /></a>
   <a href="mailto:andrii.malakhovtsev@gmail.com" target="_blank" rel="noopener noreferrer" ><img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="32" style="border:none; box-shadow:none;" /></a>
