@@ -31,7 +31,7 @@
 * **🎮 [Game Query](https://github.com/andrii-malakhovtsev/game-query-winforms):** My personal take on how you get people to game together 
 * **📸 [OCR Text Extraction](https://github.com/andrii-malakhovtsev/image-text-to-clipboard):** Need to copy text from the image?
 * **📚 [Numerical Methods Library](https://github.com/andrii-malakhovtsev/numerical-methods-library):** Numerical Analysis Solutions for C#
-* **🚢 [Native Windows "Sea Battle"](https://github.com/andrii-malakhovtsev/sea-battle-game-winforms)** game
+* **🚢 ["Sea Battle" game](https://github.com/andrii-malakhovtsev/sea-battle-game-winforms)** Native for Windowsg
 * **🐧 [Linux Client-Server Communication](https://github.com/andrii-malakhovtsev/local-client-server-linux)** Communication through daemons
 
 ---
