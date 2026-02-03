@@ -25,8 +25,8 @@
 
 <hr>
 
-* **⛏️ [ZendCraft.net](https://www.zendcraft.net):** Private Minecraft Servers for whitelisted community
-* **💼 [Mdvden.com](https://mdvden.com):** Portfolio website I have built for a client 
+* **⛏️ [ZendCraft.net](https://github.com/andrii-malakhovtsev/zendcraft-net):** Private Minecraft Servers for whitelisted community
+* **💼 [Mdvden.com](https://github.com/andrii-malakhovtsev/denys-portfolio):** Portfolio website I have built for a client 
 * **⚙️ [Mechanism Kinematics Simulator](https://github.com/andrii-malakhovtsev/mechanism-kinematics-winforms):** Drawing Mechanism Kinematics 
 * **🎮 [Game Query](https://github.com/andrii-malakhovtsev/game-query-winforms):** My personal take on how you get people to game together 
 * **📸 [OCR Text Extraction](https://github.com/andrii-malakhovtsev/image-text-to-clipboard):** Need to copy text from the image?
