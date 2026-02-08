@@ -22,7 +22,7 @@
 
 <hr>
 
-* **🌐 [AccountMap](https://github.com/andrii-malakhovtsev/accountmap):** Lead | See your digital footprint
+* **🌐 [AccountMap](https://github.com/andrii-malakhovtsev/accountmap):** **Lead** | See your digital footprint
 * **⛏️ [ZendCraft.net](https://github.com/andrii-malakhovtsev/zendcraft-net):** Private Minecraft Servers for whitelisted community
 * **💼 [Mdvden.com](https://github.com/andrii-malakhovtsev/denys-portfolio):** Portfolio website I have built for a client 
 * **⚙️ [Mechanism Kinematics Simulator](https://github.com/andrii-malakhovtsev/mechanism-kinematics-winforms):** Drawing Mechanism Kinematics 
