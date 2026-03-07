@@ -23,7 +23,7 @@
 <hr>
 
 * **🌐 [AccountMap.org](https://github.com/AccountMap):** **Founder** | See your digital footprint
-* **📸 [Clipboardee.org](https://github.com/andrii-malakhovtsev/clipboardee):** Need to copy text from the image?
+* **📸 [Clipboardee.com](https://clipboardee.org):** **In Progress** | Need to copy text from the image?
 * **⛏️ [ZendCraft.net](https://github.com/andrii-malakhovtsev/zendcraft-net):** Private Minecraft Servers for whitelisted community
 * **💼 [Mdvden.com](https://github.com/andrii-malakhovtsev/denys-portfolio):** Portfolio website for a client 
 * **🎮 [Game Query](https://github.com/andrii-malakhovtsev/game-query-winforms):** My personal take on how you get people to game together 
