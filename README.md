@@ -6,6 +6,8 @@
     <img src="https://skillicons.dev/icons?i=dotnet,cs,react,tailwind,aws,git,nginx,docker,postgresql"/>
   </a>
 
+<hr>
+
 <h3>Featured Projects</h3>
 
 * **🌐 [AccountMap.org](https://github.com/AccountMap):** **Founder** | See your digital footprint
