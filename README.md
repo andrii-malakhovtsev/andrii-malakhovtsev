@@ -17,7 +17,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,cs,react,tailwind,aws,git,linux,python,ts,nodejs,express,nginx,docker,postgresql,c"/>
+    <img src="https://skillicons.dev/icons?i=dotnet,cs,react,tailwind,aws,git,nginx,docker,postgresql"/>
   </a>
 
 <hr>
@@ -25,11 +25,6 @@
 * **🌐 [AccountMap.org](https://github.com/AccountMap):** **Founder** | See your digital footprint
 * **📸 [Clipboardee.com](https://github.com/Clipboardee):** **In Progress** | Need to copy text from the image?
 * **⛏️ [ZendCraft.net](https://github.com/andrii-malakhovtsev/zendcraft-net):** Private Minecraft Servers for whitelisted community
-* **💼 [Mdvden.com](https://mdvden.com/):** Portfolio website for a client 
-* **🎮 [Game Query](https://github.com/andrii-malakhovtsev/game-query-winforms):** My personal take on how you get people to game together 
-* **📚 [Numerical Methods Library](https://github.com/andrii-malakhovtsev/numerical-methods-library):** Numerical Analysis Solutions for C#
-* **⚙️ [Mechanism Kinematics Simulator](https://github.com/andrii-malakhovtsev/mechanism-kinematics-winforms):** Drawing Mechanism Kinematics 
-* **🐧 [Linux Client-Server Communication](https://github.com/andrii-malakhovtsev/local-client-server-linux)** Communication through daemons
 
 ---
 
