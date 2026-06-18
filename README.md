@@ -21,6 +21,7 @@
   </a>
 
 <hr>
+<h2>Featured Projects</h2>
 
 * **🌐 [AccountMap.org](https://github.com/AccountMap):** **Founder** | See your digital footprint
 * **📸 [Clipboardee.com](https://github.com/Clipboardee):** **In Progress** | Need to copy text from the image?
