@@ -8,8 +8,6 @@
 
 <hr>
 
-<h3>Featured Projects</h3>
-
 * **🌐 [AccountMap.org](https://github.com/AccountMap)** - See your digital footprint
 * **📸 [Clipboardee.com](https://github.com/Clipboardee)** - Need to copy text from the image?
 * **⛏️ [ZendCraft.net](https://github.com/andrii-malakhovtsev/zendcraft-net)** - Private Minecraft Servers for whitelisted community
