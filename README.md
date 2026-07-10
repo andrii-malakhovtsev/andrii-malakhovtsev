@@ -14,6 +14,13 @@
 
 <hr>
 
+* **🌐 [AccountMap.org](https://github.com/AccountMap):** See your digital footprint
+* **⛏️ [ZendCraft.net](https://github.com/andrii-malakhovtsev/zendcraft-net):** Private Minecraft Servers for whitelisted community
+* **🎮 [Game Query](https://github.com/andrii-malakhovtsev/game-query-winforms):** My personal take on how you get people to game together 
+* **📚 [Numerical Methods](https://github.com/andrii-malakhovtsev/numerical-methods-library):** Numerical Analysis Library for C#
+
+<hr>
+
 <p align="center">
   <strong>
     <a href="https://andrii-malakhovtsev.com/">
