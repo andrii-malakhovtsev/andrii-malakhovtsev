@@ -8,9 +8,10 @@
 
 <hr>
 
-* **🌐 [AccountMap.org](https://github.com/AccountMap)** - See your digital footprint
-* **📸 [Clipboardee.com](https://github.com/Clipboardee)** - Need to copy text from the image?
-* **⛏️ [ZendCraft.net](https://github.com/andrii-malakhovtsev/zendcraft-net)** - Private Minecraft Servers for whitelisted community
+* **🌐 [AccountMap.org](https://github.com/AccountMap):** See your digital footprint
+* **⛏️ [ZendCraft.net](https://github.com/andrii-malakhovtsev/zendcraft-net):** Private Minecraft Servers for whitelisted community
+* **🎮 [Game Query](https://github.com/andrii-malakhovtsev/game-query-winforms):** My personal take on how you get people to game together 
+* **📚 [Numerical Methods Library](https://github.com/andrii-malakhovtsev/numerical-methods-library):** Numerical Analysis Solutions for C#
 
 <hr>
 
