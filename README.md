@@ -12,21 +12,21 @@
 <hr>
 
 * **🌐 [AccountMap.org](https://github.com/AccountMap):** See your digital footprint
-* **⛏️ [ZendCraft.net](https://github.com/andrii-malakhovtsev/zendcraft-net):** Private Minecraft Servers for whitelisted community
-* **🎮 [Game Query](https://github.com/andrii-malakhovtsev/game-query-winforms):** My personal take on how you get people to game together 
-* **📚 [Numerical Methods](https://github.com/andrii-malakhovtsev/numerical-methods-library):** Numerical Analysis Library for C#
+* **⛏️ [ZendCraft.net](https://github.com/malakhovtsev/zendcraft-net):** Private Minecraft Servers for whitelisted community
+* **🎮 [Game Query](https://github.com/malakhovtsev/game-query-winforms):** My personal take on how you get people to game together 
+* **📚 [Numerical Methods](https://github.com/malakhovtsev/numerical-methods-library):** Numerical Analysis Library for C#
 
 <hr>
 
 <p align="center">
   <strong>
-    <a href="https://andrii-malakhovtsev.com/">
+    <a href="https://malakhovtsev.com/">
       <code>Portfolio 💼</code></a>
   </strong>
 </p>
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/andrii-malakhovtsev/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="32" style="border:none; box-shadow:none;" /></a>
+    <a href="https://www.linkedin.com/in/malakhovtsev/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="32" style="border:none; box-shadow:none;" /></a>
     <a href="mailto:andrii.malakhovtsev@gmail.com" target="_blank" rel="noopener noreferrer" ><img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="32" style="border:none; box-shadow:none;" /></a>
     <a href="https://discordapp.com/users/andrii.mal" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=discord" alt="Discord" width="32" style="border:none; box-shadow:none;" /> </a>
 </p>
